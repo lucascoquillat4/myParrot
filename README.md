@@ -2,6 +2,8 @@
 
 > Educational project created to learn the fundamentals of cryptocurrency tokens and smart contracts.
 
+![Illustration](assets/token.png)
+
 ## 📖 About
 
 **myParrot** is a learning project focused on understanding how blockchain tokens and smart contracts work.
