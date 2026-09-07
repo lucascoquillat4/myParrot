@@ -1,17 +1,21 @@
-🦜 myParrot
+# 🦜 myParrot
 
-Educational project created to learn the fundamentals of cryptocurrency tokens and smart contracts.
+> Educational project created to learn the fundamentals of cryptocurrency tokens and smart contracts.
 
-📖 About
+## 📖 About
 
-myParrot is a learning project focused on understanding how blockchain tokens and smart contracts work.
+**myParrot** is a learning project focused on understanding how blockchain tokens and smart contracts work.
 
-🛠️ Technologies
-Solidity
-OpenZeppelin
-Ethereum / EVM
-JSON
-📂 Project Structure
+## 🛠️ Technologies
+
+- **Solidity**
+- **OpenZeppelin**
+- **Ethereum / EVM**
+- **JSON**
+
+## 📂 Project Structure
+
+```text
 myParrot/
 ├── .deps/
 │   └── npm/
@@ -45,32 +49,41 @@ myParrot/
 ├── README.md
 ├── myToken.sol
 └── scenario.json
-🚀 Getting Started
+```
+
+## 🚀 Getting Started
+
+```bash
 git clone https://github.com/lucascoquillat4/myParrot.git
 cd myParrot
+```
 
-Install dependencies and compile the contracts using your preferred Solidity development environment.
+Install the required dependencies and compile the contracts using your preferred Solidity development environment.
 
-📚 What I Learned
-Smart contracts
-ERC-20 tokens
-Token supply and balances
-Transfers
-Ownership and permissions
-OpenZeppelin
-Contract compilation
-🔮 Future Improvements
-Automated tests
-Testnet deployment
-Web3 frontend
-Minting & burning
-Improved documentation
-⚠️ Disclaimer
+## 📚 What I Learned
 
-Educational project only.
+- Smart contracts
+- ERC-20 tokens
+- Token supply and balances
+- Transfers
+- Ownership and permissions
+- OpenZeppelin
+- Contract compilation
 
-Not intended for production use, investment, or real funds.
+## 🔮 Future Improvements
 
-📄 License
+- Automated tests
+- Testnet deployment
+- Web3 frontend
+- Minting & burning
+- Improved documentation
 
-Provided for educational and experimental purposes.
+## ⚠️ Disclaimer
+
+> **Educational project only.**
+>
+> This project is intended for learning and experimentation only. It is not a production-ready cryptocurrency or financial product.
+
+## 📄 License
+
+This project is provided for educational and experimental purposes.
